@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Alvarez Alonso</h1>
-<h3 align="center">I am a bilingual Front End developer and creative web designer focused on UI and UX with experience building responsive and original websites.</h3>
+<h3 align="center">I am a bilingual Front End developer and creative web designer focused on UI and UX with experience building responsive and original websites. I specialize in JavaScript and have professional experience working with HTML, CSS, React, and JQuery among other libraries and frameworks. Every project I manage is oriented to deliver the best possible user experience. If you are interested in being listened to and obtaining your expected results, please feel free to reach out to me.</h3>
 
 - 🔭 I’m currently working on **My wife website! ;)**
 
