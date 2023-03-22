@@ -1,5 +1,6 @@
-<img align="left" alt="coding gif" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"><h1 align="center">Hi 👋, I'm Adrian Alvarez Alonso</h1>
+<h1 align="center">Hi 👋, I'm Adrian Alvarez Alonso</h1>
 <h3 align="center">I am a bilingual Front End developer and creative web designer focused on UI and UX with experience building responsive and original websites.</h3>
+<img align="left" alt="coding gif" width="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **some back-end technologies like Node.js and Express**
 
