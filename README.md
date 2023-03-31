@@ -2,13 +2,13 @@
 <h3 align="left">I am a bilingual Front End developer and creative web designer focused on UI and UX with experience building responsive and original websites. I specialize in JavaScript and have professional experience working with HTML, CSS, React, and JQuery among other libraries and frameworks. Every project I manage is oriented to deliver the best possible user experience. If you are interested in being listened to and obtaining your expected results, please feel free to reach out to me.</h3><br>
 
 
-- 🔭 I’m currently working on **My wife website! ;)**
+- 🔭 I’m currently working on **My wife's website! ;)**
 
 - 🌱 I’m currently learning **some back-end technologies like Node.js and Express**
 
 - 📫 How to reach me **adrian.alvarezalonso1991@gmail.com**
 
-- ⚡ Fun fact **im a Combat Sports Athlete**
+- ⚡ Fun fact **I'm a Combat Sports Athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
