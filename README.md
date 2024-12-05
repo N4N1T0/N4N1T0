@@ -30,6 +30,11 @@
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Sanity" src="https://img.shields.io/badge/-Sanity-f36458?style=flat-square&logo=sanity&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-1d63ed?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Pnpm" src="https://img.shields.io/badge/-pnpm-e6a700?style=flat-square&logo=pnpm&logoColor=white" />
+  <img alt="Clerk" src="https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+  <img alt="Clerk" src="https://img.shields.io/badge/-Shopify/liquid-36F4A4?style=flat-square&logo=shopify&logoColor=white" />
 </p>
   </li>
   <li>
@@ -54,16 +59,22 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/N4N1T0/backswing-ecommerce"><b>BackSwing - Padel Tshirts</b></a></td>
+      <td><a href="https://github.com/N4N1T0/termogar-ecommerce-next"><b>Termogar</b></a></td>
       <td>Ecommerce</td>
       <td>Development</td>
-      <td>Next.js - Tailwind.css - Shadcn - woocommerce</td>
+      <td>Next.js - Tailwind.css - Shadcn - Sanity - Nextauth - Resend</td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/N4N1T0/doctec-landing"><b>Doctect World - Marketing Angency</b></a></td>
-      <td>Landing Page</td>
-      <td> Marketing / SEO </td>
-      <td>Astro - Tailwind.css</td>
+      <td><a href="https://github.com/N4N1T0/lola-barcelona-theme"><b>Lola Barcelona</b></a></td>
+      <td>Ecommerce</td>
+      <td>Marketing</td>
+      <td>Liquid - Shopify</td>
+    </tr>
+	    <tr>
+      <td><a href="https://github.com/N4N1T0/nfc-astro-shadcn"><b>Nano Fighters Club</b></a></td>
+      <td>Blog</td>
+      <td>Development</td>
+      <td>Astro - OpenAi - Alpine</td>
     </tr>
   </tbody>
 </table>
