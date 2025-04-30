@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514120/795/cool.gif?1643514120" width="30"/> Welcome to my Github Account.</h1>
+<h1>Welcome to my Github Account.</h1>
 
 
-<p> My name is Adrian, but my friends call me <b>"Nano"</b>, i'm Front-End Developer / Marketing Strategist from <img src="https://cdn-icons-png.flaticon.com/128/206/206699.png" width="17"/> <b>Cuba</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/206/206724.png" width="17"/> <b>Marbella, Spain</b>. <br/><br/> I bridge the gap between development and marketing. I focus on writing <b>clean, optimized, and minimalist code</b> on the development side, while also driving results through <b>conversion rate optimization (CRO)</b> on the marketing side. </p>
+<p> My name is Adrian, but my friends call me <b>"Nano"</b>, i'm Front-End Developer / Marketing Strategist from <img src="https://cdn-icons-png.flaticon.com/128/206/206699.png" width="17"/> <b>Cuba</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/206/206724.png" width="17"/> <b>Asturias, Spain</b>. <br/><br/> I bridge the gap between development and marketing. I focus on writing <b>clean, optimized, and minimalist code</b> on the development side, while also driving results through <b>conversion rate optimization (CRO)</b> on the marketing side. </p>
 
 <h3>My Tech Stack</h3>
 
@@ -34,7 +34,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1d63ed?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Pnpm" src="https://img.shields.io/badge/-pnpm-e6a700?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="Clerk" src="https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
-  <img alt="Clerk" src="https://img.shields.io/badge/-Shopify/liquid-36F4A4?style=flat-square&logo=shopify&logoColor=white" />
+  <img alt="Shopify" src="https://img.shields.io/badge/-Shopify/liquid-36F4A4?style=flat-square&logo=shopify&logoColor=white" />
+  <img alt="Hubspot" src="https://img.shields.io/badge/Hubspot/Hubl-ff5c35?style=flat-square&logo=hubspot&logoColor=white" />
 </p>
   </li>
   <li>
@@ -59,32 +60,35 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/N4N1T0/termogar-ecommerce-next"><b>Termogar</b></a></td>
+      <td><a href="https://www.termogar.es"><b>Termogar</b></a></td>
       <td>Ecommerce</td>
-      <td>Development</td>
+      <td>Development / Marketing</td>
       <td>Next.js - Tailwind.css - Shadcn - Sanity - Nextauth - Resend</td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/N4N1T0/lola-barcelona-theme"><b>Lola Barcelona</b></a></td>
-      <td>Ecommerce</td>
-      <td>Marketing</td>
-      <td>Liquid - Shopify</td>
-    </tr>
 	    <tr>
-      <td><a href="https://github.com/N4N1T0/nfc-astro-shadcn"><b>Nano Fighters Club</b></a></td>
-      <td>Blog</td>
-      <td>Development</td>
-      <td>Astro - OpenAi - Alpine</td>
+      <td><a href="https://enkaesteticapro.com/"><b>Enka</b></a></td>
+      <td>Ecommerce</td>
+      <td>Development / Marketing </td>
+      <td>Next.js - scss - bootstrap - Sanity - Nextauth - Resend</td>
+    </tr>
+	      <tr>
+      <td><a href="https://www.yog-in.es"><b>Yog-IN</b></a></td>
+      <td>SASS</td>
+      <td>Development </td>
+      <td>Vite - React - Express - Tailwind</td>
+    </tr>
+	        <tr>
+      <td><a href="https://explorersphototours.com/"><b>EPT</b></a></td>
+      <td>Servcie</td>
+      <td>Development / Marketing </td>
+      <td>Astro - Preact - Starlight - Tailwind</td>
     </tr>
   </tbody>
 </table>
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://www.adrian-alvarez.dev/en/blog/8-tips-to-optimize-your-ecommerce"><b>10 Tips To Optimize Your Product Pages with CRO Techniques (Conversion Rate Optimization)</b></a><br/><i>Transform your product pages into sales powerhouses with these 8 essential tips. Elevate your e-commerce game and boost conversions today</i></li>
-  <li><a href="https://www.adrian-alvarez.dev/en/blog/narrative-strategies"><b>Narrative Strategies: Empowering Your Brand in the Digital World</b></a><br/><i>Stand out in the digital world with a compelling narrative. Enhance user experience, brand loyalty, and marketing goals.</i></li>
+  <li><a href="https://www.adrian-alvarez.dev/en/blog/redsys-implementation-on-nextjs-15-part-2"><b>Integrating Redsys with Next.js 15 – Part 2</b></a><br/><i>Learn how to handle payment notifications and improve performance when integrating Redsys with Next.js 15.</i></li>
+  <li><a href="https://www.adrian-alvarez.dev/en/blog/automate-product-imports-ecommerce-sanity-cheerio"><b>How to Scrap Product for E-commerce with Sanity CMS and Cheerio</b></a><br/><i>Discover how to scrap product from a WordPress site into Sanity CMS for an e-commerce store, using Cheerio, Heroku CORS Anywhere, and cron jobs.</i></li>
+  <li><a href="https://www.adrian-alvarez.dev/en/blog/redsys-implementation-on-nextjs-15"><b>Introduction to Redsys Integration with Next.js 15</b></a><br/><i>Learn how to integrate Redsys with Next.js 15 for secure payment processing using Server Actions and the redirect form method.</i></li>
 </ul>
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/N4N1T0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Adrian_A_Alonso" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="www.linkedin.com/in/adrian-alvarez-alonso" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
